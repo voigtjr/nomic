@@ -6,10 +6,6 @@
 
 * 102: Initially rules in the 100's are immutable and rules in the 200's are mutable. Rules subsequently enacted or transmuted (that is, changed from immutable to mutable or vice versa) may be immutable or mutable regardless of their numbers, and rules in the Initial Set may be transmuted regardless of their numbers.
 
-* 103: A rule-change is any of the following: (1) the enactment, repeal, or amendment of a mutable rule; (2) the enactment, repeal, or amendment of an amendment of a mutable rule; or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
-
-    (Note: This definition implies that, at least initially, all new rules are mutable; immutable rules, as long as they are immutable, may not be amended or repealed; mutable rules, as long as they are mutable, may be amended or repealed; any rule of any status may be transmuted; no rule is absolutely immune to change.)
-
 * 104: All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.
 
 * 105: Every player is an eligible voter. Every eligible voter must participate in every vote on rule-changes.
@@ -86,3 +82,7 @@
 * 213: If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
     This rule takes precedence over every other rule determining the winner.
+
+* 214: A rule-change is any of the following: (1) the enactment, repeal, or amendment of a mutable rule; (2) the enactment, repeal, or amendment of an amendment of a mutable rule; or (3) the transmutation of an immutable rule into a mutable rule or vice versa.
+
+    (Note: This definition implies that, at least initially, all new rules are mutable; immutable rules, as long as they are immutable, may not be amended or repealed; mutable rules, as long as they are mutable, may be amended or repealed; any rule of any status may be transmuted; no rule is absolutely immune to change.)
