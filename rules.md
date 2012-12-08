@@ -80,17 +80,19 @@
 
     This rule takes precedence over every other rule determining the winner.
 
-# Rule Changes
+# Game State
+
+## Rules
 
 * 301: 
 
-# Mutable Rule Count
+## Mutable Rule Count
 
 13
 
-Limited to 25 via 209.
+Limited to min 1 by 114 and max 25 by 209.
 
-# Score
+## Score
 
 * Name: 0
 
