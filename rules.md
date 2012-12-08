@@ -39,13 +39,10 @@
 * 116: Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules, which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
 ## Mutable Rules
+
 * 201: Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
-    In mail and computer games, players shall alternate in alphabetical order by surname.
-
 * 202: One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
-
-    In mail and computer games, instead of throwing a die, players subtract 291 from the ordinal number of their proposal and multiply the result by the fraction of favorable votes it received, rounded to the nearest integer. (This yields a number between 0 and 10 for the first player, with the upper limit increasing by one each turn; more points are awarded for more popular proposals.)
 
 * 203: A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
@@ -59,13 +56,9 @@
 
 * 208: The winner is the first player to achieve 100 (positive) points.
 
-    In mail and computer games, the winner is the first player to achieve 200 (positive) points.
-
 * 209: At no time may there be more than 25 mutable rules.
 
 * 210: Players may not conspire or consult on the making of future rule-changes unless they are team-mates.
-
-    The first paragraph of this rule does not apply to games by mail or computer.
 
 * 211: If two or more mutable rules conflict with one another, or if two or more immutable rules conflict with one another, then the rule with the lowest ordinal number takes precedence.
 
@@ -86,3 +79,18 @@
 * 213: If the rules are changed so that further play is impossible, or if the legality of a move cannot be determined with finality, or if by the Judge's best reasoning, not overruled, a move appears equally legal and illegal, then the first player unable to complete a turn is the winner.
 
     This rule takes precedence over every other rule determining the winner.
+
+# Rule Changes
+
+* 301: 
+
+# Mutable Rule Count
+
+13
+
+Limited to 25 via 209.
+
+# Score
+
+* Name: 0
+
