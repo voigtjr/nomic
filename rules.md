@@ -90,6 +90,12 @@
 
 * <del>303: Make rule 104 mutable: All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.</del>
 
+* <del>304: Amend 212 such that there are 3 judges (two to the right, one to the left) and, if two of the three agree, this holds as the judge's decision. And, if the judges can't agree, everyone gets 10 points.</del>
+
+* <del>305: If you roll a 3 at the end of your turn, you can choose to re-roll it.</del>
+
+* 306: Amend rule 203 so that majority rule comes in to play after one circuit of turns.
+
 ## Mutable Rule Count
 
 14
@@ -101,5 +107,13 @@ Limited to min 1 by 114 and max 25 by 209.
 * Martin: 6
 
 * Greg: 8
+
+* Rey: 12
+
+* Kevin: 10
+
+* Nik: 12
+
+
 
 
