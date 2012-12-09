@@ -88,6 +88,8 @@
 
 * 302: Amend rule 204 such that the loss of points is 0.
 
+* <del>303: Make rule 104 mutable: All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.</del>
+
 ## Mutable Rule Count
 
 14
@@ -97,4 +99,7 @@ Limited to min 1 by 114 and max 25 by 209.
 ## Score
 
 * Martin: 6
+
+* Greg: 8
+
 
