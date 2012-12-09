@@ -117,9 +117,11 @@
 
 * 313: Change rule 204 to read: If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall lose 10 points each.
 
+* <del>314: A team can form a coalition with an unallied player for the win.</del>
+
 ## Mutable Rule Count
 
-19
+20
 
 Limited to min 1 by 114 and max 25 by 209.
 
@@ -130,7 +132,7 @@ Limited to min 1 by 114 and max 25 by 209.
 * Team: 20
 
 * Greg: 50
-* Ken: 38
+* Ken: 44
 * Team: 88
 
 * Rey: 28
