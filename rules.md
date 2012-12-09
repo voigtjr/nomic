@@ -84,7 +84,7 @@
 
 ## Rules
 
-* 301: 
+* 301: Die roll counts double.
 
 ## Mutable Rule Count
 
