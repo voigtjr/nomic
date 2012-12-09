@@ -104,9 +104,13 @@
 
 * <del>308: If you're the only one voting against a rule, you get a 20 point penalty.</del>
 
+* 309: The person proposing the new rule change or amendment may attempt to buy someone's vote for 10 points (have to come out of the player's positive point value -- you can't spend points you don't have). Once an agreement is reached, it is binding.
+
+* 310: Amend rule 208 so that you have to achieve *over* 100 points.
+
 ## Mutable Rule Count
 
-14
+21
 
 Limited to min 1 by 114 and max 25 by 209.
 
@@ -114,7 +118,7 @@ Limited to min 1 by 114 and max 25 by 209.
 
 * Martin: 8
 
-* Greg: 8
+* Greg: 20
 
 * Rey: 12
 
