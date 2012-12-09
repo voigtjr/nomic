@@ -89,12 +89,20 @@
 * 302: Amend rule 204 such that the loss of points is 0.
 
 * <del>303: Make rule 104 mutable: All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.</del>
+    * everybody but Rey
 
 * <del>304: Amend 212 such that there are 3 judges (two to the right, one to the left) and, if two of the three agree, this holds as the judge's decision. And, if the judges can't agree, everyone gets 10 points.</del>
+    * Against: Jon
 
 * <del>305: If you roll a 3 at the end of your turn, you can choose to re-roll it.</del>
+    * Against: Greg
 
 * 306: Amend rule 203 so that majority rule comes in to play after one circuit of turns.
+
+* <del>307: Amend 202 so that "die" is defined as a 100 sided die.</del>
+    * Against: Jon, Greg, Nik
+
+* <del>308: If you're the only one voting against a rule, you get a 20 point penalty.</del>
 
 ## Mutable Rule Count
 
@@ -104,7 +112,7 @@ Limited to min 1 by 114 and max 25 by 209.
 
 ## Score
 
-* Martin: 6
+* Martin: 8
 
 * Greg: 8
 
@@ -114,6 +122,7 @@ Limited to min 1 by 114 and max 25 by 209.
 
 * Nik: 12
 
+* Jon: 8
 
-
+* Ken: 8
 
