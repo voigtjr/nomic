@@ -42,15 +42,15 @@
 
 * 201: Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
-* 202: One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding <del>the number of points on its face</del> to one's score.
+* 202: One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) throwing one die once and adding the number of points on its face to one's score.
 
 * 203: A rule-change is adopted if and only if the vote is unanimous among the eligible voters. If this rule is not amended by the end of the second complete circuit of turns, it automatically changes to require only a simple majority.
 
-* 204: If and when rule-changes can be adopted without unanimity, <del>the players who vote against winning proposals shall receive 10 points each.</del>
+* <del>204: If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall receive 10 points each.</del>
 
 * 205: An adopted rule-change takes full effect at the moment of the completion of the vote that adopted it.
 
-* 206: When a proposed rule-change is defeated, the player who proposed it loses 10 points.
+* 206: When a proposed rule-change is defeated, the player who proposed it <del>loses 10 points.</del>
 
 * 207: Each player always has exactly one vote.
 
@@ -86,7 +86,7 @@
 
 * 301: Die roll counts double.
 
-* 302: Amend rule 204 such that the loss of points is 0.
+* 302: Amend rule 206 such that the loss of points is 0.
 
 * <del>303: Make rule 104 mutable: All rule-changes proposed in the proper way shall be voted on. They will be adopted if and only if they receive the required number of votes.</del>
     * everybody but Rey
@@ -106,27 +106,39 @@
 
 * 309: The person proposing the new rule change or amendment may attempt to buy someone's vote for 10 points (have to come out of the player's positive point value -- you can't spend points you don't have). Once an agreement is reached, it is binding.
 
-* 310: Amend rule 208 so that you have to achieve *over* 100 points.
+* 310: Amend rule 208 so that you have to achieve *over* 100 points
+    * Against: Greg, Ken
+
+* 311: Teammate rule, if any one person does not want a teammate, they get 15 points. Team-mates collaborate on everything together, including score. They get to both roll, they get their turns, but their score is added. If one wins, the other one does as well. All players may form teams of two. This is a one-time offer, must be decided as of the enactment of this rule.
+    * Against: Greg, Ken, Rey
+
+* 312: Any time Greg or Ken rolls a 6, they must re-roll.
+    * Against: Greg, Ken
+
+* 313: Change rule 204 to read: If and when rule-changes can be adopted without unanimity, the players who vote against winning proposals shall lose 10 points each.
 
 ## Mutable Rule Count
 
-21
+19
 
 Limited to min 1 by 114 and max 25 by 209.
 
 ## Score
 
 * Martin: 8
-
-* Greg: 20
-
-* Rey: 12
-
-* Kevin: 10
-
 * Nik: 12
+* Team: 20
 
-* Jon: 8
+* Greg: 50
+* Ken: 38
+* Team: 88
 
-* Ken: 8
+* Rey: 28
+* Jon: 16
+* Team: 36
+
+* Kevin: 27
+
+
+
 
