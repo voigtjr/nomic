@@ -119,21 +119,23 @@
 
 * <del>314: A team can form a coalition with an unallied player for the win.</del>
 
+* 315: Ken and Greg can ally with another team, and, if the total of the combined teams' score exceeds 100, then that combined team wins. Teams are allowed up to 4 players.
+
 ## Mutable Rule Count
 
-20
+21
 
 Limited to min 1 by 114 and max 25 by 209.
 
 ## Score
 
-* Martin: 8
+* Martin: 20
 * Nik: 12
-* Team: 20
+* Team: 32
 
 * Greg: 50
 * Ken: 44
-* Team: 88
+* Team: 94
 
 * Rey: 28
 * Jon: 16
